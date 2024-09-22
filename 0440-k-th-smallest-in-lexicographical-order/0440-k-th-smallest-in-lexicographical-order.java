@@ -1,31 +1,27 @@
-class Solution {
-    public int countNumbers(long curr, long next, int n) {
-        int countNum = 0;
-
-        while (curr <= n) {
-            countNum += Math.min(next, (long) n + 1) - curr;
-            curr *= 10;
-            next *= 10;
-        }
-
-        return countNum;
-    }
-
+class Solution{ 
     public int findKthNumber(int n, int k) {
-        int curr = 1;
-        k -= 1; // Since we start from the first number (1), we need k-1 more numbers
-
-        while (k > 0) {
-            int count = countNumbers(curr, curr + 1, n);
-            if (count <= k) {
-                curr++;
-                k -= count; // Skipping the elements under the current prefix tree
-            } else {
-                curr *= 10;
-                k -= 1;
+        int curr =1;
+        k--;
+        while(k>0){
+            int count = count(curr,curr+1,n);
+            if(count <= k){ 
+                curr++; 
+                k-=count; 
+            } else { 
+                curr*=10; 
+                k--;
             }
         }
+        return curr; 
+    }
 
-        return curr;
+    public int count(long curr, long next, int n){ 
+        int countNum = 0; 
+        while(curr <=n ){ 
+            countNum += Math.min((long)n + 1, next) - curr; 
+            curr *= 10; 
+            next *= 10; 
+        }
+        return countNum; 
     }
 }
