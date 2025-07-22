@@ -7,6 +7,7 @@
 | ------- |
 | [0135-candy](https://github.com/mesumitsingh/LeetCode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/mesumitsingh/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1813-maximum-erasure-value](https://github.com/mesumitsingh/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mesumitsingh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/mesumitsingh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -41,6 +42,7 @@
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/mesumitsingh/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mesumitsingh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/mesumitsingh/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mesumitsingh/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mesumitsingh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/mesumitsingh/LeetCode/tree/master/1813-maximum-erasure-value) |
 ## Counting
 |  |
 | ------- |
