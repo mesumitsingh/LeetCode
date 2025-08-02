@@ -14,6 +14,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/mesumitsingh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/mesumitsingh/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2681-put-marbles-in-bags](https://github.com/mesumitsingh/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/mesumitsingh/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mesumitsingh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3227-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/3321-type-of-triangle) |
@@ -46,6 +47,7 @@
 | [1813-maximum-erasure-value](https://github.com/mesumitsingh/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mesumitsingh/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2689-rearranging-fruits](https://github.com/mesumitsingh/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mesumitsingh/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mesumitsingh/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -96,11 +98,13 @@
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/mesumitsingh/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/mesumitsingh/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/mesumitsingh/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Sorting
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mesumitsingh/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2681-put-marbles-in-bags](https://github.com/mesumitsingh/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/mesumitsingh/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3321-type-of-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
