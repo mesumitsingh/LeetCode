@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/mesumitsingh/LeetCode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/mesumitsingh/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/mesumitsingh/LeetCode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mesumitsingh/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/mesumitsingh/LeetCode/tree/master/0826-soup-servings) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/mesumitsingh/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
