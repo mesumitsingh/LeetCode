@@ -12,6 +12,7 @@
 | [0940-fruit-into-baskets](https://github.com/mesumitsingh/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mesumitsingh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/mesumitsingh/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/mesumitsingh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mesumitsingh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/mesumitsingh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -51,6 +52,7 @@
 | [0940-fruit-into-baskets](https://github.com/mesumitsingh/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mesumitsingh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/mesumitsingh/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/mesumitsingh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mesumitsingh/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2689-rearranging-fruits](https://github.com/mesumitsingh/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -112,6 +114,7 @@
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/mesumitsingh/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1448-maximum-69-number](https://github.com/mesumitsingh/LeetCode/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/mesumitsingh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2681-put-marbles-in-bags](https://github.com/mesumitsingh/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/mesumitsingh/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Sorting
