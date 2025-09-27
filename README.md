@@ -11,6 +11,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/mesumitsingh/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/mesumitsingh/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/mesumitsingh/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/mesumitsingh/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mesumitsingh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/mesumitsingh/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -84,6 +85,7 @@
 | [0326-power-of-three](https://github.com/mesumitsingh/LeetCode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/mesumitsingh/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/mesumitsingh/LeetCode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/mesumitsingh/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/mesumitsingh/LeetCode/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mesumitsingh/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/mesumitsingh/LeetCode/tree/master/1448-maximum-69-number) |
@@ -250,4 +252,8 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/mesumitsingh/LeetCode/tree/master/2429-design-a-food-rating-system) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/mesumitsingh/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
