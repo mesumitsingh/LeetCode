@@ -14,6 +14,7 @@
 | [0830-largest-triangle-area](https://github.com/mesumitsingh/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/mesumitsingh/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/mesumitsingh/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mesumitsingh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/mesumitsingh/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/mesumitsingh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -209,6 +210,7 @@
 | [0120-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/0120-triangle) |
 | [0826-soup-servings](https://github.com/mesumitsingh/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/mesumitsingh/LeetCode/tree/master/0867-new-21-game) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/mesumitsingh/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mesumitsingh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mesumitsingh/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Binary Search
