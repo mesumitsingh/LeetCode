@@ -33,6 +33,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/mesumitsingh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/mesumitsingh/LeetCode/tree/master/3429-special-array-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/mesumitsingh/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mesumitsingh/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mesumitsingh/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mesumitsingh/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
