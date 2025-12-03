@@ -33,6 +33,7 @@
 | [2681-put-marbles-in-bags](https://github.com/mesumitsingh/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/mesumitsingh/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mesumitsingh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2965-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mesumitsingh/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mesumitsingh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -87,6 +88,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/mesumitsingh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/mesumitsingh/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2965-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mesumitsingh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mesumitsingh/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -115,6 +117,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/mesumitsingh/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/mesumitsingh/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2965-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2998-count-symmetric-integers](https://github.com/mesumitsingh/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/mesumitsingh/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mesumitsingh/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -126,6 +129,7 @@
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mesumitsingh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mesumitsingh/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Number Theory
