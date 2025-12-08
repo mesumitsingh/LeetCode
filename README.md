@@ -109,6 +109,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mesumitsingh/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/mesumitsingh/LeetCode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/mesumitsingh/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/mesumitsingh/LeetCode/tree/master/0826-soup-servings) |
@@ -284,6 +285,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mesumitsingh/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/mesumitsingh/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/mesumitsingh/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/mesumitsingh/LeetCode/tree/master/0326-power-of-three) |
