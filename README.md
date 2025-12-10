@@ -43,6 +43,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/mesumitsingh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/mesumitsingh/LeetCode/tree/master/3429-special-array-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mesumitsingh/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mesumitsingh/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/mesumitsingh/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mesumitsingh/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -129,6 +130,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mesumitsingh/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/3321-type-of-triangle) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mesumitsingh/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mesumitsingh/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
@@ -318,4 +320,9 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mesumitsingh/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mesumitsingh/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
