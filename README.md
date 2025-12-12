@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/mesumitsingh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mesumitsingh/LeetCode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/mesumitsingh/LeetCode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/mesumitsingh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mesumitsingh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mesumitsingh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/0118-pascals-triangle) |
@@ -137,6 +138,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mesumitsingh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mesumitsingh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -271,6 +273,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mesumitsingh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0611-valid-triangle-number](https://github.com/mesumitsingh/LeetCode/tree/master/0611-valid-triangle-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
