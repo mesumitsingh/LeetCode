@@ -8,20 +8,18 @@ class Solution {
             }
         }
 
-        if(pivot!=-1)
-        {for(int i=n-1; i>pivot; i--) { 
-            if(nums[i]>nums[pivot]) { 
-                int temp = nums[i]; 
-                nums[i] = nums[pivot]; 
-                nums[pivot] = temp; 
-                break;
+        if (pivot != -1) {
+            for (int i = n - 1; i > pivot; i--) {
+                if (nums[i] > nums[pivot]) {
+                    int temp = nums[i];
+                    nums[i] = nums[pivot];
+                    nums[pivot] = temp;
+                    break;
+                }
             }
-        }}
+        }
 
-
-
-
-        int l=pivot+1, r=n-1; 
+        int l = pivot + 1, r = n - 1;
 
         while (l < r) {
             int temp = nums[l];
