@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/mesumitsingh/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mesumitsingh/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/mesumitsingh/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/mesumitsingh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mesumitsingh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mesumitsingh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mesumitsingh/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mesumitsingh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/mesumitsingh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/mesumitsingh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mesumitsingh/LeetCode/tree/master/0169-majority-element) |
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
@@ -141,6 +143,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/mesumitsingh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mesumitsingh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mesumitsingh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
