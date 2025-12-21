@@ -7,16 +7,15 @@ class Solution {
         Arrays.fill(prefix, 1);
         Arrays.fill(ans, 1);
         Arrays.fill(suffix, 1);
+        int j=n-2; 
 
         // prefix
         for(int i=1; i<n; i++) { 
             prefix[i] = prefix[i-1] * nums[i-1];  
+            suffix[j] = suffix[j+1] * nums[j+1];  
+            j--;
         }
 
-        // suffix
-        for(int i=n-2; i>=0; i--) { 
-            suffix[i] = suffix[i+1] * nums[i+1];  
-        }
 
         for(int i=0; i<nums.length; i++) { 
             ans[i] = prefix[i] * suffix[i]; 
