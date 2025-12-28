@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/mesumitsingh/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/mesumitsingh/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/mesumitsingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0560-subarray-sum-equals-k](https://github.com/mesumitsingh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/mesumitsingh/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mesumitsingh/LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/mesumitsingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mesumitsingh/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mesumitsingh/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -189,6 +191,7 @@
 | [0141-linked-list-cycle](https://github.com/mesumitsingh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/mesumitsingh/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/mesumitsingh/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/mesumitsingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/mesumitsingh/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/mesumitsingh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -291,6 +294,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mesumitsingh/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/mesumitsingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/mesumitsingh/LeetCode/tree/master/0611-valid-triangle-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
