@@ -72,6 +72,7 @@
 | [0079-word-search](https://github.com/mesumitsingh/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mesumitsingh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/mesumitsingh/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/mesumitsingh/LeetCode/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/mesumitsingh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mesumitsingh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -101,6 +102,7 @@
 | [0073-set-matrix-zeroes](https://github.com/mesumitsingh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/mesumitsingh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mesumitsingh/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/mesumitsingh/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/mesumitsingh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/mesumitsingh/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -227,6 +229,7 @@
 | [0088-merge-sorted-array](https://github.com/mesumitsingh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mesumitsingh/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/mesumitsingh/LeetCode/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/mesumitsingh/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mesumitsingh/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
