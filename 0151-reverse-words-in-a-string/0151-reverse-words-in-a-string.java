@@ -11,6 +11,7 @@ class Solution {
             i++; 
             j--;
         }
+        
         return String.join(" ", str).trim(); 
     }
 }
