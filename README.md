@@ -74,6 +74,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/mesumitsingh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/mesumitsingh/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/mesumitsingh/LeetCode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/mesumitsingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/mesumitsingh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mesumitsingh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -106,6 +107,7 @@
 | [0169-majority-element](https://github.com/mesumitsingh/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mesumitsingh/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/mesumitsingh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/mesumitsingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/mesumitsingh/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/mesumitsingh/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -180,6 +182,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mesumitsingh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/mesumitsingh/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/mesumitsingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0867-new-21-game](https://github.com/mesumitsingh/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/mesumitsingh/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mesumitsingh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -207,6 +210,7 @@
 | [0165-compare-version-numbers](https://github.com/mesumitsingh/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/mesumitsingh/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/mesumitsingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/mesumitsingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/mesumitsingh/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/mesumitsingh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
