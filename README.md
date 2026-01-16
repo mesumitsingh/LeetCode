@@ -69,6 +69,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mesumitsingh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/mesumitsingh/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/mesumitsingh/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/mesumitsingh/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mesumitsingh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mesumitsingh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -304,6 +305,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/mesumitsingh/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mesumitsingh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mesumitsingh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/0118-pascals-triangle) |
@@ -367,6 +369,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/mesumitsingh/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mesumitsingh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/mesumitsingh/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mesumitsingh/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
