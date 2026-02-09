@@ -284,6 +284,7 @@
 | [0079-word-search](https://github.com/mesumitsingh/LeetCode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/mesumitsingh/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mesumitsingh/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -418,4 +420,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mesumitsingh/LeetCode/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
