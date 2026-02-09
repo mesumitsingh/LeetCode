@@ -428,4 +428,8 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/mesumitsingh/LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
