@@ -63,6 +63,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mesumitsingh/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mesumitsingh/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mesumitsingh/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/mesumitsingh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
@@ -100,6 +101,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/mesumitsingh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/mesumitsingh/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mesumitsingh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3719-longest-balanced-subarray-i](https://github.com/mesumitsingh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mesumitsingh/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mesumitsingh/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mesumitsingh/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/mesumitsingh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mesumitsingh/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mesumitsingh/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -331,6 +334,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/mesumitsingh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
@@ -364,6 +368,7 @@
 | [0169-majority-element](https://github.com/mesumitsingh/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/mesumitsingh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Quickselect
 |  |
 | ------- |
