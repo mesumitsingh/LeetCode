@@ -29,6 +29,7 @@
 | [0287-find-the-duplicate-number](https://github.com/mesumitsingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/mesumitsingh/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mesumitsingh/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/mesumitsingh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -118,6 +119,7 @@
 | [0141-linked-list-cycle](https://github.com/mesumitsingh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mesumitsingh/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mesumitsingh/LeetCode/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mesumitsingh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mesumitsingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
