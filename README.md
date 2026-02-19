@@ -40,6 +40,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mesumitsingh/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mesumitsingh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mesumitsingh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mesumitsingh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1470-shuffle-the-array](https://github.com/mesumitsingh/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mesumitsingh/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -124,6 +125,7 @@
 | [0940-fruit-into-baskets](https://github.com/mesumitsingh/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mesumitsingh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mesumitsingh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mesumitsingh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mesumitsingh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/mesumitsingh/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/mesumitsingh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -254,6 +256,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/mesumitsingh/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mesumitsingh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mesumitsingh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mesumitsingh/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mesumitsingh/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2681-put-marbles-in-bags](https://github.com/mesumitsingh/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -446,4 +449,8 @@
 |  |
 | ------- |
 | [1683-invalid-tweets](https://github.com/mesumitsingh/LeetCode/tree/master/1683-invalid-tweets) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mesumitsingh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
