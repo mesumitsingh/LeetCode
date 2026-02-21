@@ -1,7 +1,6 @@
 class Solution {
 
     public void getUniqueSubsets(int[] nums, List<List<Integer>> allSubsets, List<Integer> ans, int i) {
-        Arrays.sort(nums); 
         if (i == nums.length) {
             allSubsets.add(new ArrayList<>(ans));
             return;
@@ -26,6 +25,7 @@ class Solution {
     }
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
+        Arrays.sort(nums); 
         List<List<Integer>> allSubsets = new ArrayList<>();
         List<Integer> ans = new ArrayList<>();
 
