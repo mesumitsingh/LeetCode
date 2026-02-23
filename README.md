@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/mesumitsingh/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mesumitsingh/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mesumitsingh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/mesumitsingh/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/mesumitsingh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/mesumitsingh/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mesumitsingh/LeetCode/tree/master/0051-n-queens) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mesumitsingh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/mesumitsingh/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mesumitsingh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/mesumitsingh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mesumitsingh/LeetCode/tree/master/0169-majority-element) |
@@ -187,6 +189,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mesumitsingh/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mesumitsingh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mesumitsingh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mesumitsingh/LeetCode/tree/master/0079-word-search) |
@@ -420,6 +423,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mesumitsingh/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/mesumitsingh/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mesumitsingh/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/mesumitsingh/LeetCode/tree/master/0078-subsets) |
