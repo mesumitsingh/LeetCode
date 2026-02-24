@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mesumitsingh/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mesumitsingh/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mesumitsingh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mesumitsingh/LeetCode/tree/master/0018-4sum) |
@@ -119,6 +120,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mesumitsingh/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mesumitsingh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/mesumitsingh/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mesumitsingh/LeetCode/tree/master/0073-set-matrix-zeroes) |
