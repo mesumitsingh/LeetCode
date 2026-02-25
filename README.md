@@ -87,6 +87,7 @@
 | [0032-longest-valid-parentheses](https://github.com/mesumitsingh/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/mesumitsingh/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mesumitsingh/LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/mesumitsingh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mesumitsingh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/mesumitsingh/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/mesumitsingh/LeetCode/tree/master/0242-valid-anagram) |
@@ -340,6 +341,7 @@
 | [0118-pascals-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mesumitsingh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/mesumitsingh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0826-soup-servings](https://github.com/mesumitsingh/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/mesumitsingh/LeetCode/tree/master/0867-new-21-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mesumitsingh/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -433,6 +435,7 @@
 | [0078-subsets](https://github.com/mesumitsingh/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mesumitsingh/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/mesumitsingh/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
 |  |
 | ------- |
