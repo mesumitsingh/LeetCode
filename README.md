@@ -62,6 +62,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/mesumitsingh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2429-design-a-food-rating-system](https://github.com/mesumitsingh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2465-shifting-letters-ii](https://github.com/mesumitsingh/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/mesumitsingh/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2681-put-marbles-in-bags](https://github.com/mesumitsingh/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/mesumitsingh/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mesumitsingh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -199,6 +200,7 @@
 | [0079-word-search](https://github.com/mesumitsingh/LeetCode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mesumitsingh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2596-check-knight-tour-configuration](https://github.com/mesumitsingh/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mesumitsingh/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -313,6 +315,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/mesumitsingh/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2596-check-knight-tour-configuration](https://github.com/mesumitsingh/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## String Matching
 |  |
 | ------- |
@@ -331,6 +334,7 @@
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2596-check-knight-tour-configuration](https://github.com/mesumitsingh/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mesumitsingh/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -369,6 +373,7 @@
 | [1929-concatenation-of-array](https://github.com/mesumitsingh/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mesumitsingh/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2596-check-knight-tour-configuration](https://github.com/mesumitsingh/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3790-fruits-into-baskets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
