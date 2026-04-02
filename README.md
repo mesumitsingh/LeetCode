@@ -322,6 +322,7 @@
 | [0207-course-schedule](https://github.com/mesumitsingh/LeetCode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/mesumitsingh/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0802-find-eventual-safe-states](https://github.com/mesumitsingh/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/mesumitsingh/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## String Matching
@@ -343,6 +344,7 @@
 | [0200-number-of-islands](https://github.com/mesumitsingh/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mesumitsingh/LeetCode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0802-find-eventual-safe-states](https://github.com/mesumitsingh/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/mesumitsingh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/mesumitsingh/LeetCode/tree/master/2596-check-knight-tour-configuration) |
@@ -486,6 +488,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mesumitsingh/LeetCode/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/mesumitsingh/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Database
 |  |
@@ -499,4 +502,5 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mesumitsingh/LeetCode/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/mesumitsingh/LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
