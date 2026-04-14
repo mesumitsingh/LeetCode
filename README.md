@@ -47,6 +47,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/mesumitsingh/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/mesumitsingh/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/mesumitsingh/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mesumitsingh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/mesumitsingh/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/mesumitsingh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -374,6 +375,7 @@
 | [0287-find-the-duplicate-number](https://github.com/mesumitsingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/mesumitsingh/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mesumitsingh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
