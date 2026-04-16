@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mesumitsingh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/mesumitsingh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/mesumitsingh/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/mesumitsingh/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/mesumitsingh/LeetCode/tree/master/0079-word-search) |
@@ -246,6 +247,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mesumitsingh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/mesumitsingh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mesumitsingh/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mesumitsingh/LeetCode/tree/master/0031-next-permutation) |
@@ -366,6 +368,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mesumitsingh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/mesumitsingh/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mesumitsingh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mesumitsingh/LeetCode/tree/master/0053-maximum-subarray) |
