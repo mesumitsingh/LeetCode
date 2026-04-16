@@ -8,21 +8,36 @@ class Solution {
 
         while (i < n1 && j < n2) {
             if (nums1[i] < nums2[j]) {
-                merged[k++] = nums1[i++];
+                merged[k] = nums1[i];
+                k++; 
+                i++;
             } else {
-                merged[k++] = nums2[j++];
+                merged[k] = nums2[j];
+                k++; 
+                j++; 
             }
         }
 
-        while (i < n1) merged[k++] = nums1[i++];
-        while (j < n2) merged[k++] = nums2[j++];
+        while (i < n1) { 
+            merged[k] = nums1[i];
+            k++; 
+            i++;
+        }
+        while (j < n2) {
+            merged[k] = nums2[j];
+            k++; 
+            j++; 
+        }
 
+
+        // merge
         int n = merged.length;
 
-        if (n % 2 == 1) {
-            return merged[n / 2];
+        if (n % 2 == 0) {
+            double median = (merged[n / 2] + merged[n / 2 - 1]) / 2.0;
+            return median;
         } else {
-            return (merged[n / 2] + merged[n / 2 - 1]) / 2.0;
+            return merged[n / 2];
         }
     }
 }
