@@ -45,6 +45,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mesumitsingh/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/mesumitsingh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mesumitsingh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/mesumitsingh/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mesumitsingh/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -142,6 +143,7 @@
 | [0242-valid-anagram](https://github.com/mesumitsingh/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mesumitsingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/mesumitsingh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mesumitsingh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mesumitsingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
@@ -449,6 +451,7 @@
 | [0042-trapping-rain-water](https://github.com/mesumitsingh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mesumitsingh/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/mesumitsingh/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/mesumitsingh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mesumitsingh/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
@@ -485,6 +488,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mesumitsingh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mesumitsingh/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/mesumitsingh/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
