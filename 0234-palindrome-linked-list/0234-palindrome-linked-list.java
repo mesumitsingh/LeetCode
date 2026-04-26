@@ -10,45 +10,42 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        if(head == null || head.next == null) { 
-            return true;
-        }
+        ListNode middle = middle(head); 
+        ListNode reversed = reverse(middle); 
 
-        ListNode slow = head; 
-        ListNode fast = head; 
-        while(fast.next !=null && fast.next.next != null) { 
-            slow = slow.next; 
-            fast = fast.next.next;
-        }
-
-        ListNode middle = reverseList(slow.next); 
-
-        ListNode firstHalf = head; 
-        ListNode secondHalf = middle; 
-        boolean palindrome = true; 
-        while(secondHalf != null) { 
-            if(firstHalf.val != secondHalf.val) { 
-                palindrome = false;
+        while(head != null && reversed != null) { 
+            if(head.val != reversed.val) { 
+                return false; 
             }
-
-            secondHalf = secondHalf.next; 
-            firstHalf = firstHalf.next;
+            head = head.next; 
+            reversed = reversed.next; 
         }
 
-        return palindrome;
-
+        return true; 
     }
 
-    private ListNode reverseList(ListNode head) { 
-        ListNode prev = null; 
-        ListNode curr = head; 
-        while(curr != null) { 
-            ListNode temp = curr.next; 
-            curr.next = prev; 
-            prev = curr; 
-            curr = temp;
+    public ListNode middle(ListNode head) { 
+        ListNode slow = head; 
+        ListNode fast = head; 
+
+        while(fast != null && fast.next != null) {
+            slow = slow.next; 
+            fast = fast.next.next; 
         }
 
-        return prev;
+        return slow; 
+    }
+
+    public ListNode reverse(ListNode head) {
+        if(head.next == null || head == null) { 
+            return head; 
+        }
+
+        ListNode last = reverse(head.next); 
+
+        head.next.next = head; 
+        head.next = null; 
+        
+        return last; 
     }
 }
