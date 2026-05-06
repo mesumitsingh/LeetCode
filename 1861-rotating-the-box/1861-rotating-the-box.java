@@ -1,44 +1,31 @@
 class Solution {
+    public char[][] rotateTheBox(char[][] boxGrid) {
+        int n = boxGrid.length; 
+        int m = boxGrid[0].length;
+        for(int i=0; i<n; i++) { 
+            
+            int k=m-1; 
 
-    public char[][] rotateTheBox(char[][] box) {
+            for(int j=m-1; j>=0; j--) { 
+                if(boxGrid[i][j]=='*') { 
+                    k = j-1; 
+                } else if (boxGrid[i][j] == '#'){ 
+                    char temp = boxGrid[i][j]; 
+                    boxGrid[i][j] = boxGrid[i][k]; 
+                    boxGrid[i][k] = temp; 
 
-        int m = box.length;
-        int n = box[0].length;
-
-        // Step 1: Move stones right
-        for (int i = 0; i < m; i++) {
-
-            int empty = n - 1;
-
-            for (int j = n - 1; j >= 0; j--) {
-
-                // obstacle
-                if (box[i][j] == '*') {
-                    empty = j - 1;
-                }
-
-                // stone
-                else if (box[i][j] == '#') {
-
-                    char temp = box[i][empty];
-                    box[i][empty] = '#';
-                    box[i][j] = temp;
-
-                    empty--;
+                    k--; 
                 }
             }
         }
 
-        // Step 2: Rotate 90 degree clockwise
-        char[][] ans = new char[n][m];
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-
-                ans[j][m - 1 - i] = box[i][j];
+        char[][] grid = new char[m][n]; 
+        for(int i=0; i<n; i++) { 
+            for(int j=0; j<m; j++) { 
+                grid[j][n-1-i] = boxGrid[i][j]; 
             }
         }
 
-        return ans;
+        return grid; 
     }
 }
