@@ -66,6 +66,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/mesumitsingh/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1813-maximum-erasure-value](https://github.com/mesumitsingh/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/mesumitsingh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1861-rotating-the-box](https://github.com/mesumitsingh/LeetCode/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mesumitsingh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/mesumitsingh/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mesumitsingh/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -226,6 +227,7 @@
 | [0994-rotting-oranges](https://github.com/mesumitsingh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mesumitsingh/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mesumitsingh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1861-rotating-the-box](https://github.com/mesumitsingh/LeetCode/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mesumitsingh/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/mesumitsingh/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -279,6 +281,7 @@
 | [0611-valid-triangle-number](https://github.com/mesumitsingh/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/mesumitsingh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1861-rotating-the-box](https://github.com/mesumitsingh/LeetCode/tree/master/1861-rotating-the-box) |
 ## Greedy
 |  |
 | ------- |
