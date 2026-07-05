@@ -3,8 +3,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/mesumitsingh/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mesumitsingh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mesumitsingh/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -95,8 +95,8 @@
 | [3719-longest-balanced-subarray-i](https://github.com/mesumitsingh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mesumitsingh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mesumitsingh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/mesumitsingh/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -124,8 +124,8 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mesumitsingh/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mesumitsingh/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mesumitsingh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mesumitsingh/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mesumitsingh/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -138,8 +138,8 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/mesumitsingh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3719-longest-balanced-subarray-i](https://github.com/mesumitsingh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/mesumitsingh/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mesumitsingh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/mesumitsingh/LeetCode/tree/master/0037-sudoku-solver) |
@@ -178,8 +178,8 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mesumitsingh/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mesumitsingh/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/mesumitsingh/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/mesumitsingh/LeetCode/tree/master/0136-single-number) |
@@ -190,8 +190,8 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mesumitsingh/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0050-powx-n](https://github.com/mesumitsingh/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/mesumitsingh/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mesumitsingh/LeetCode/tree/master/0326-power-of-three) |
@@ -216,8 +216,8 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mesumitsingh/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mesumitsingh/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/mesumitsingh/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mesumitsingh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mesumitsingh/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -234,12 +234,12 @@
 | [3227-find-missing-and-repeated-values](https://github.com/mesumitsingh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mesumitsingh/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/mesumitsingh/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mesumitsingh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mesumitsingh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/mesumitsingh/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -249,8 +249,8 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mesumitsingh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/mesumitsingh/LeetCode/tree/master/1813-maximum-erasure-value) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/mesumitsingh/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mesumitsingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -259,8 +259,8 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mesumitsingh/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mesumitsingh/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mesumitsingh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/mesumitsingh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mesumitsingh/LeetCode/tree/master/0018-4sum) |
@@ -283,8 +283,8 @@
 | [0908-middle-of-the-linked-list](https://github.com/mesumitsingh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/mesumitsingh/LeetCode/tree/master/1861-rotating-the-box) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0135-candy](https://github.com/mesumitsingh/LeetCode/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/mesumitsingh/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mesumitsingh/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -296,8 +296,8 @@
 | [2681-put-marbles-in-bags](https://github.com/mesumitsingh/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/mesumitsingh/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/mesumitsingh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mesumitsingh/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/mesumitsingh/LeetCode/tree/master/0075-sort-colors) |
@@ -318,24 +318,24 @@
 | [2689-rearranging-fruits](https://github.com/mesumitsingh/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3321-type-of-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mesumitsingh/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mesumitsingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2429-design-a-food-rating-system](https://github.com/mesumitsingh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2681-put-marbles-in-bags](https://github.com/mesumitsingh/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2998-count-symmetric-integers](https://github.com/mesumitsingh/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/mesumitsingh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mesumitsingh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mesumitsingh/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/mesumitsingh/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -346,13 +346,13 @@
 | [0908-middle-of-the-linked-list](https://github.com/mesumitsingh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mesumitsingh/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mesumitsingh/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mesumitsingh/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/mesumitsingh/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/mesumitsingh/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mesumitsingh/LeetCode/tree/master/0207-course-schedule) |
@@ -361,23 +361,24 @@
 | [0802-find-eventual-safe-states](https://github.com/mesumitsingh/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mesumitsingh/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mesumitsingh/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/mesumitsingh/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mesumitsingh/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mesumitsingh/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mesumitsingh/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mesumitsingh/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/mesumitsingh/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mesumitsingh/LeetCode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -385,11 +386,12 @@
 | [0994-rotting-oranges](https://github.com/mesumitsingh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mesumitsingh/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mesumitsingh/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/mesumitsingh/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mesumitsingh/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mesumitsingh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/mesumitsingh/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mesumitsingh/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -405,8 +407,8 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mesumitsingh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mesumitsingh/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mesumitsingh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mesumitsingh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mesumitsingh/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -419,14 +421,14 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/mesumitsingh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/0493-reverse-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/mesumitsingh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mesumitsingh/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/mesumitsingh/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mesumitsingh/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -434,19 +436,19 @@
 | [2596-check-knight-tour-configuration](https://github.com/mesumitsingh/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3790-fruits-into-baskets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/0493-reverse-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/mesumitsingh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Probability and Statistics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0826-soup-servings](https://github.com/mesumitsingh/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/mesumitsingh/LeetCode/tree/master/0867-new-21-game) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mesumitsingh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/mesumitsingh/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/mesumitsingh/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -455,8 +457,8 @@
 | [0234-palindrome-linked-list](https://github.com/mesumitsingh/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/mesumitsingh/LeetCode/tree/master/0326-power-of-three) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mesumitsingh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/mesumitsingh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mesumitsingh/LeetCode/tree/master/0169-majority-element) |
@@ -465,13 +467,13 @@
 | [0493-reverse-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/0493-reverse-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/mesumitsingh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mesumitsingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mesumitsingh/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mesumitsingh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mesumitsingh/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -479,26 +481,26 @@
 | [0496-next-greater-element-i](https://github.com/mesumitsingh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mesumitsingh/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mesumitsingh/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [2429-design-a-food-rating-system](https://github.com/mesumitsingh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0830-largest-triangle-area](https://github.com/mesumitsingh/LeetCode/tree/master/0830-largest-triangle-area) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mesumitsingh/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mesumitsingh/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/mesumitsingh/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mesumitsingh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mesumitsingh/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -509,58 +511,60 @@
 | [0090-subsets-ii](https://github.com/mesumitsingh/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/mesumitsingh/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/mesumitsingh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mesumitsingh/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/mesumitsingh/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/mesumitsingh/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/mesumitsingh/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/mesumitsingh/LeetCode/tree/master/0493-reverse-pairs) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/mesumitsingh/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/mesumitsingh/LeetCode/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mesumitsingh/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mesumitsingh/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/mesumitsingh/LeetCode/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/mesumitsingh/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mesumitsingh/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1683-invalid-tweets](https://github.com/mesumitsingh/LeetCode/tree/master/1683-invalid-tweets) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mesumitsingh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/mesumitsingh/LeetCode/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/mesumitsingh/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mesumitsingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
