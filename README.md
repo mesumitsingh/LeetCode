@@ -58,6 +58,7 @@
 | [0994-rotting-oranges](https://github.com/mesumitsingh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mesumitsingh/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1288-remove-covered-intervals](https://github.com/mesumitsingh/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mesumitsingh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mesumitsingh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mesumitsingh/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -309,6 +310,7 @@
 | [0611-valid-triangle-number](https://github.com/mesumitsingh/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mesumitsingh/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/mesumitsingh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1288-remove-covered-intervals](https://github.com/mesumitsingh/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mesumitsingh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mesumitsingh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mesumitsingh/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
