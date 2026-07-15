@@ -359,6 +359,7 @@
 | [0200-number-of-islands](https://github.com/mesumitsingh/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mesumitsingh/LeetCode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/mesumitsingh/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mesumitsingh/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0802-find-eventual-safe-states](https://github.com/mesumitsingh/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mesumitsingh/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -384,6 +385,7 @@
 | [0200-number-of-islands](https://github.com/mesumitsingh/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mesumitsingh/LeetCode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/mesumitsingh/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/mesumitsingh/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/mesumitsingh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mesumitsingh/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -542,6 +544,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/mesumitsingh/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/mesumitsingh/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mesumitsingh/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mesumitsingh/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -549,6 +552,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/mesumitsingh/LeetCode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/mesumitsingh/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/mesumitsingh/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mesumitsingh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mesumitsingh/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
