@@ -1,37 +1,35 @@
 class Solution {
 
-    public static boolean isCycleDirected(boolean[] vis, boolean[] stack, int[][] edges, int src) {
-        vis[src] = true;
-        stack[src] = true;
+    public boolean isCycle(int[][] prerequisites, int src, boolean[] visited, boolean[] parent) {
+        visited[src] = true;
+        parent[src] = true;
 
-        for (int i = 0; i < edges.length; i++) {
-            int v = edges[i][0];
-            int u = edges[i][1];
+        for (int i = 0; i < prerequisites.length; i++) {
+            int v = prerequisites[i][0];
+            int u = prerequisites[i][1];
 
             if (u == src) {
-                if (!vis[v]) {
-                    if (isCycleDirected(vis, stack, edges, v)) {
+                if (!visited[v]) {
+                    if (isCycle(prerequisites, v, visited, parent)) {
                         return true;
                     }
-                } else if (stack[v]) {
+                } else if (parent[v]) {
                     return true;
                 }
             }
         }
 
-        stack[src] = false;
+        parent[src] = false;
         return false;
-
     }
 
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-
-        boolean[] vis = new boolean[numCourses];
-        boolean[] stack = new boolean[numCourses];
+        boolean[] visited = new boolean[numCourses];
+        boolean[] parent = new boolean[numCourses];
 
         for (int i = 0; i < numCourses; i++) {
-            if (!vis[i]) {
-                if (isCycleDirected(vis, stack, prerequisites, i)) {
+            if (!visited[i]) {
+                if (isCycle(prerequisites, i, visited, parent)) {
                     return false;
                 }
             }
