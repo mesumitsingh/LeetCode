@@ -1,41 +1,42 @@
 class Solution {
 
-    public boolean isCycle(int[][] prerequisites, int src, boolean[] visited, boolean[] parent) {
-        visited[src] = true;
-        parent[src] = true;
+    public boolean isCycleDFS(int curr, int[][] edges, boolean[] vis, boolean[] recPath) {
+        vis[curr] = true;
+        recPath[curr] = true;
 
-        for (int i = 0; i < prerequisites.length; i++) {
-            int v = prerequisites[i][0];
-            int u = prerequisites[i][1];
+        for (int i = 0; i < edges.length; i++) {
+            int u = edges[i][1];
+            int v = edges[i][0];
 
-            if (u == src) {
-                if (!visited[v]) {
-                    if (isCycle(prerequisites, v, visited, parent)) {
+            if (u == curr) {
+                if (!vis[v]) {
+                    if (isCycleDFS(v, edges, vis, recPath)) {
                         return true;
                     }
-                } else if (parent[v]) {
+
+                } else if (recPath[v]) {
                     return true;
                 }
+
             }
         }
-
-        parent[src] = false;
+        recPath[curr] = false; 
         return false;
     }
 
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        boolean[] visited = new boolean[numCourses];
-        boolean[] parent = new boolean[numCourses];
+
+        boolean[] vis = new boolean[numCourses];
+        boolean[] recPath = new boolean[numCourses];
 
         for (int i = 0; i < numCourses; i++) {
-            if (!visited[i]) {
-                if (isCycle(prerequisites, i, visited, parent)) {
+            if (!vis[i]) {
+                if (isCycleDFS(i, prerequisites, vis, recPath)) {
                     return false;
                 }
             }
         }
 
         return true;
-
     }
 }
