@@ -42,6 +42,7 @@
 | [0287-find-the-duplicate-number](https://github.com/mesumitsingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/mesumitsingh/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/mesumitsingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/mesumitsingh/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/mesumitsingh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mesumitsingh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mesumitsingh/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -411,6 +412,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mesumitsingh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mesumitsingh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/mesumitsingh/LeetCode/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/mesumitsingh/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0826-soup-servings](https://github.com/mesumitsingh/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/mesumitsingh/LeetCode/tree/master/0867-new-21-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mesumitsingh/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -589,4 +591,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/mesumitsingh/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/mesumitsingh/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/mesumitsingh/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
