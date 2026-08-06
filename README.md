@@ -114,6 +114,7 @@
 | [0567-permutation-in-string](https://github.com/mesumitsingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/mesumitsingh/LeetCode/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/mesumitsingh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1143-longest-common-subsequence](https://github.com/mesumitsingh/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mesumitsingh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mesumitsingh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mesumitsingh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -418,6 +419,7 @@
 | [0826-soup-servings](https://github.com/mesumitsingh/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/mesumitsingh/LeetCode/tree/master/0867-new-21-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mesumitsingh/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1143-longest-common-subsequence](https://github.com/mesumitsingh/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mesumitsingh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mesumitsingh/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Binary Search
@@ -606,4 +608,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/mesumitsingh/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/mesumitsingh/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
